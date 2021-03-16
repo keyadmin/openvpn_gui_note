@@ -1,0 +1,5 @@
+File base.conf : file config ovpn client 
+FIle server.conf : file config ovpn server 
+File iptables : use set rules for client connect to openvpn server
+File Make_openvpn.sh : script automatic create file openvpn client and set ipaddress static
+
